@@ -29,8 +29,8 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Projects-->
-        <missyou.version>1.0.0.RELEASE</missyou.version>
-        <missyou.development.version>1.0.1-SNAPSHOT</missyou.development.version>
+        <missyou.version>1.0.1.RELEASE</missyou.version>
+        <missyou.development.version>1.0.2-SNAPSHOT</missyou.development.version>
     </properties>
 
     <developers>
@@ -57,7 +57,7 @@
             <dependency>
                 <groupId>com.missyou</groupId>
                 <artifactId>missyou-dependencies</artifactId>
-                <version>${project.version}</version>
+                <version>1.0.0.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
