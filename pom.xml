@@ -29,8 +29,8 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Projects-->
-        <missyou.version>1.0.4.RELEASE</missyou.version>
-        <missyou.development.version>1.0.5-SNAPSHOT</missyou.development.version>
+        <missyou.version>1.0.5.RELEASE</missyou.version>
+        <missyou.development.version>1.0.6-SNAPSHOT</missyou.development.version>
     </properties>
 
     <developers>
