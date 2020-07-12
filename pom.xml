@@ -10,7 +10,7 @@
 
     <groupId>com.missyou</groupId>
     <artifactId>missyou-parent</artifactId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.8-SNAPSHOT</version>
     <packaging>pom</packaging>
     <description>通用依赖-Parent</description>
 
@@ -29,8 +29,8 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Projects-->
-        <missyou.version>1.0.7.RELEASE</missyou.version>
-        <missyou.development.version>1.0.8-SNAPSHOT</missyou.development.version>
+        <missyou.version>1.0.8.RELEASE</missyou.version>
+        <missyou.development.version>1.0.9-SNAPSHOT</missyou.development.version>
     </properties>
 
     <developers>
